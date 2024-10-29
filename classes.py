@@ -53,6 +53,10 @@ class D:
     def MD3(self):
         print("Método MD3")
 
+    def MD4(self):
+        print("Método MD4")
+
+
 
 
 # vamos continuar testando.
