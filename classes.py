@@ -19,3 +19,4 @@ class B:
 
     def MB2(self):
         print("Método MB2")
+#teste
