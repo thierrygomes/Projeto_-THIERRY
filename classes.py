@@ -54,6 +54,7 @@ class D:
         print("Método MD3")
 
 
+
 # vamos continuar testando.
 #questao 28 solicitada alteração
 
