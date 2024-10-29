@@ -39,3 +39,14 @@ class C:
 
     def MC3(self):
         print("Método MC3")
+class D:
+    def __init__(self, D1: str, D2: int):
+        self.D1 = D1
+        self.D2 = D2
+
+    def MD1(self):
+        print(f"Método MD1: {self.D1}")
+
+    def MD2(self):
+        print(f"Método MD2: {self.D2}")
+
