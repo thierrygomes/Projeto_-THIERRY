@@ -50,6 +50,9 @@ class D:
     def MD2(self):
         print(f"Método MD2: {self.D2}")
 
+    def MD3(self):
+        print("Método MD3")
+
 
 # vamos continuar testando.
 #questao 28 solicitada alteração
