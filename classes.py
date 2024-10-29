@@ -23,6 +23,9 @@ class B:
     def MB2(self):
         print("Método MB2")
 
+    def MB3(self):
+        print("Método MB3")
+
 class C:
     def __init__(self):
         self.C1 = ""
@@ -33,3 +36,6 @@ class C:
 
     def MC2(self):
         print("Método MC2")
+
+    def MC3(self):
+        print("Método MC3")
